@@ -15,4 +15,4 @@ This repository contains simple Java programs for beginners, including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ManipatiGowthami/java-coding-sample.git
+   git clone https://github.com/manipatigowthami123-dev/java-coding-sample.git
